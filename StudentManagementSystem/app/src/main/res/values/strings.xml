@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StudentManagementSystem</string>
+    <string name="Open_nav_drawer">Open Navigation Drawer</string>
+    <string name="Close_nav_drawer">Close Navigation Drawer</string>
+    <string name="delete">Delete</string>
+    <string name="Add_fee">Add Fee</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Spinner_entries_SECTION">
+        <item>K17RE</item>
+        <item>k17BN</item>
+        <item>AJ17GH</item>
+        <item>KJ12GF</item>
+    </string-array>
+
+    <string-array name="Spinner_entries_BRANCH">
+        <item>Computer Science</item>
+        <item>Electrical</item>
+        <item>Mechanical</item>
+        <item>Polytechnic</item>
+    </string-array>
+</resources>

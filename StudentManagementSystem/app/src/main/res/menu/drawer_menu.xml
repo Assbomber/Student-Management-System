@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/add_student_nav"
+            android:icon="@drawable/ic_person"
+            android:title="Add Student" />
+        <item
+            android:id="@+id/delete_student_nav"
+            android:icon="@drawable/ic_delete"
+            android:title="Delete Student" />
+        <item
+            android:id="@+id/update_student_nav"
+            android:icon="@drawable/ic_update"
+            android:title="Update Details" />
+    </group>
+
+    <item android:title="Contact us">
+        <menu>
+            <item
+                android:id="@+id/message_nav"
+                android:icon="@drawable/ic_message"
+                android:title="Send Message" />
+            <item
+                android:id="@+id/call_nav"
+                android:icon="@drawable/ic_call"
+                android:title="Call Us" />
+        </menu>
+    </item>
+</menu>
