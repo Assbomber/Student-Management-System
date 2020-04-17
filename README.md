@@ -7,5 +7,5 @@ Download APK: https://github.com/Assbomber/Student-Management-System/raw/master/
 ![Screenshot1](screen3.PNG)
 ![Screenshot1](screen4.PNG)
 ![Screenshot1](screen5.PNG)
-![Screenshot1](Screen5.PNG)
+![Screenshot1](Screenshot_2020-04-16-19-43-53-201_com.example.studentmanagementsystem.jpg)
 
