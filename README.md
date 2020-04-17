@@ -1,5 +1,4 @@
 # Student-Management-System
 
-![Screenshot1](Screenshot_2020-04-16-19-40-43-819_com.example.studentmanagementsystem.jpg width=250)
+Download APK: https://github.com/Assbomber/Student-Management-System/raw/master/app-release.apk
 
-![Screenshot2](Screenshot_2020-04-16-19-40-49-952_com.example.studentmanagementsystem.jpg)
